@@ -6,7 +6,9 @@ Now, as a first step, I'm interested in using the JS Framework to excel. Then I 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=kanaji487&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanaji487&style=flat-square&color=A84448&style=for-the-badge" alt="counter" align="center"/>
+ </div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
