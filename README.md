@@ -25,4 +25,4 @@ Now, as a first step, I'm interested in using the JS Framework to excel. Then I 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaji487&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kanaji487)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@018c1e9e-4135-4fe4-ab15-bc3207404bc3/01dd76aa-823e-4350-b2c9-28fe806e0d15.svg"></embed></figure>
