@@ -10,7 +10,7 @@ Now, as a first step, I'm interested in using the JS Framework to excel. Then I 
   <img src="https://komarev.com/ghpvc/?username=kanaji487&style=flat-square&color=A84448&style=for-the-badge" alt="counter" align="center"/>
  </div>
 
-### :hammer_and_wrench: Languages and Tools :
+# Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40">&nbsp;
