@@ -23,10 +23,12 @@ Now, as a first step, I'm interested in using the JS Framework to excel. Then I 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40">&nbsp;
 </div>
 
-### :fire: My Stats :
+# My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanaji487&theme=ocean-dark&border_radius=6)](https://git.io/streak-stats)
 ![Auttawut's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanaji487&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaji487&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 <figure><embed src="https://wakatime.com/share/@018c1e9e-4135-4fe4-ab15-bc3207404bc3/01dd76aa-823e-4350-b2c9-28fe806e0d15.svg"></embed></figure>
+<br />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
